@@ -27,6 +27,9 @@ body {
 
 }
 
+.mainav {
+    layout: inline-block;
+}
 #title {
     background-image: url("Resources/pattern.jpeg");
     width: auto;
